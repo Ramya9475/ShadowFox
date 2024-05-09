@@ -12,3 +12,6 @@ Usage :
 
 Library Used :
   Beautiful Soup: A Python library for web scraping.
+
+Output :
+  The extracted data from the website is been imported as Indian_Companies.csv file which is been attached under this folder.
